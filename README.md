@@ -9,8 +9,8 @@ O projeto utiliza dados históricos para identificar tendências globais, princi
 
 | Visual | Objetivo |
 |-------|---------|
-| 📈 **Gráfico de barras vertical** | Exibir a tendência global de emissões de CO₂ ao longo dos anos |
-| 📊 **Gráfico de barras horizontal** | Mostrar os países que mais emitiram CO₂ no ano selecionado |
+| 📈 **Gráfico de barras horizontal** | Exibir a tendência global de emissões de CO₂ ao longo dos anos |
+| 📊 **Gráfico de barras vertical** | Mostrar os países que mais emitiram CO₂ no ano selecionado |
 | 🗺️ **Mapa customizado (formatado com JSON)** | Visualizar a distribuição das emissões por país no ano selecionado |
 | 📦 **Cartões / KPIs** | Destaques rápidos como: total global de emissões no ano |
 
